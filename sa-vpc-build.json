@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "quantum-device-322319",
+  "private_key_id": "8f2dc9b7df40663603a891bb022a82e0ccbdd844",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCyiQ7/2fVTvL4z\n1rk2adj4Nrj5ZYP2UxkI/tOvO/opYF8Imgj4rPhc96Z8L7hF27EtPY0cjOEYu/5L\n+Kx7Rpp0J+/Xw878aV6NdnEnDdQ2O+53NQR66umrSJDdZUp+nfO0Cy/3R0YtVJwf\nzosU0X2Nk0O7JWelSl4j18QkrRDxmwXSiRLZ5HptLyRO6rOv2TO3lTDrazF/AtxY\nWZ8uniGLYJ1eeH6kRZs/FQVtRzCW/IhZT0xL6fn+A0Ytw/jGwfG9JfdTHxHuzGpa\nlBxN786hZA03q+zMefvJUeuyL0dDgsWt6O/dzWu1+F6tCMURAH1rNYKSVq21/eRR\nbj8wmS1bAgMBAAECggEAQ7YOjcOEszsAqhl0SipPwyfB9LhnGYt/kbVP5IRrRrkJ\nofIFmAbF9UBpkGzqxvfg1QcklyDpGB/ofLi19dUbrBUfdiYJwRpXZXB3zreEdgM5\n2FUvu0yPzcnqQ0VwwN+3919M1ExgVb3irn9/qSggpYqmI/q2Oe6gEJj7B2vp4q9l\nwHNMZo8Soo5ByR+vFEJyP1DJx9bBINEOnRSg+fj//l4mQfMAlxBXLoqlWKwzFj3g\n4YnRZsWQMAXMpkO6Wbe2BfwAi3Sa08KPG0Rds+DfZjVPXZPzAtxMgKwSwXr2wzFj\nYW3Vx2wCDnsb3E3QmTREzd9O7qMR3inVzmRRvooUxQKBgQDj/oadDYKUpqEQRH12\nCpzg8Wt2HwmltCEs2TY6VJMglt9viXIYXskwdp2Tc/gHzR933YiAU81SbHs663qO\nsvK45qGNyERcyFjAAct9mSHh0fjrUjOCGLWfkOjh1JpXoFG/i34qq0ZZHtZh5Ysi\nH10LWNPnBWtA7/EnUpm2c98nnwKBgQDId0G0uY4d2Z7bnF8TrOnmuWGEHzroX8+X\nCKkGTl8MWlb5tIb9HiCG/qTWHjo3u9dQ5HlxV7pd1qGQf4dv3HLno7wxuXqQULjm\ndjmkZOz0ZR65fb2VF4Zs5+iMJ3FOuJuaTi10fiTSCcUeQO5EnY3wqXF/JRmvaMEn\nzJpu3cJQxQKBgCDEdP5fcbQBmsZmwY1UiyV9LQ+l+FH7aIU0lqmdfCPD60rxexdr\nkAjKE22czjn4zhwBF9wxryG4e6GFNHEL4PyYEQH6lXCsTq0R1PgxKQB2mAriHosF\nGB1dy0qhrqkHXphj6Pci9JJcbz1Uq0F1Nn8p/hKG4dpMYeFf6r2hO6JLAoGAS9sM\nqvVX+KWjfhhyxcA1lg/p/ZPPt6ShqdYmF3PKdaMtrDmKpvciedKbz0YK45IZzMtX\nxPLcW6ve4Q3Q0xxJAqwrh2lXHordHJ/5+eIS4/vrn2ccOPF49XbfwUEfmBk1EDOq\n8ZzWFACMbYFGaAJydnG3t9PzHzP1ezjp6y/Q2r0CgYEAq8OspV57QrCD4OFRGQyM\nXq7ykrWaBf9jEAnlqFjTW5Geksm4B4RFv71JlL7WFrB8tSz6ewyivfaYoBgQ2xb1\nymjwRKpfTy3kV49MfbDAXMpxTHfKX5OF3TTzthA4KNR7Rc0HIGWsZAxhYkuGdJZg\nh77XSTULQ4cRi1a57XzUxz0=\n-----END PRIVATE KEY-----\n",
+  "client_email": "build-vpc@quantum-device-322319.iam.gserviceaccount.com",
+  "client_id": "113965298446548724189",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/build-vpc%40quantum-device-322319.iam.gserviceaccount.com"
+}
